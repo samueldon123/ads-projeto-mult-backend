@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'br..com.senaisp.bauru.prjCtrlFinanceiro' is invalid and this project uses 'br.com.senaisp.bauru.prjCtrlFinanceiro' instead.
-
 # Getting Started
 
 ### Reference Documentation
@@ -12,8 +7,8 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/4.1.2/maven-plugin)
 * [Create an OCI image](https://docs.spring.io/spring-boot/4.1.2/maven-plugin/build-image.html)
 * [Spring Web](https://docs.spring.io/spring-boot/4.1.2/reference/web/servlet.html)
-* [Spring Data JPA](https://docs.spring.io/spring-boot/4.1.2/reference/data/sql.html#data.sql.jpa-and-spring-data)
 * [Flyway Migration](https://docs.spring.io/spring-boot/4.1.2/how-to/data-initialization.html#howto.data-initialization.migration-tool.flyway)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/4.1.2/reference/data/sql.html#data.sql.jpa-and-spring-data)
 * [Spring Security](https://docs.spring.io/spring-boot/4.1.2/reference/web/spring-security.html)
 
 ### Guides
